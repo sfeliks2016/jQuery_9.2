@@ -2,7 +2,7 @@
 
 zad.9.2
 
-1. Stworzymy dwa elementy &lt;<&gt;div&lt;>&gt; - w każdym z nich dodamy po jednym akapicie &lt;<&gt;p&lt;>&gt; - różniących się od siebie jedynie tym, że jeden z nich będzie zawierał element &lt;<&gt;span&lt;>&gt; a drugi nie.
+1. Stworzymy dwa elementy &lt;&gt;div&lt;&gt; - w każdym z nich dodamy po jednym akapicie &lt;<&gt;p&lt;>&gt; - różniących się od siebie jedynie tym, że jeden z nich będzie zawierał element &lt;<&gt;span&lt;>&gt; a drugi nie.
 
 2. Powyższą strukturę powtórz 5 razy i zamknij w jednym zewnętrznym divie.
 
